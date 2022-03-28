@@ -1,2 +1,3 @@
 # helloWorld
-GettingStarted
+GettingStarted with github
+Author: Mayank Naithani
